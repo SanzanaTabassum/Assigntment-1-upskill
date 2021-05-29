@@ -1,9 +1,9 @@
 # Assigntment-1-upskill
-Assignment 1: Big O notation plot
-import numpy as np
-import matplotlib.pyplot as plt
-
-
+Assignment 1: Big O notation plots
+<br/>
+<br/>
+import numpy as np<br/>
+import matplotlib.pyplot as plt<br/>
 x = np.arange(0.01, 7, 0.05)<br/>
 y = (x**2)<br/>
 z= (x**3)<br/>

@@ -4,9 +4,9 @@
 import numpy as np</br>
 import matplotlib.pyplot as plt</br>
 x = np.arange(0.01, 7, 0.05)</br>
-y = (x\**2)</br>
-z= (x\**3)</br>
-a= (x\**4)</br>
+y = (x\*\*2)</br>
+z= (x\*\*3)</br>
+a= (x\*\*4)</br>
 fig, ax = plt.subplots()</br>
 b= np.log(x)</br>
 plt.plot(x,b, label= 'O(log n')</br>

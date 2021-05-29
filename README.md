@@ -17,8 +17,8 @@ plt.plot(x,z, label= 'O($n^3$)')<br/>
 plt.plot(x,a, label= 'O($n^k$)')<br/>
 
 plt.title('Big O Notation')<br/>
-plt.xlabel('categories')<br/>
-plt.ylabel('values')<br/>
+plt.xlabel('n')<br/>
+plt.ylabel('y(n)')<br/>
 
 plt.ylim(0, 100)<br/>
 
